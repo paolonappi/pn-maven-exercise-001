@@ -1,2 +1,2 @@
 # pn-maven-exercises
-Series of sample exercises for Maven learners 
+Series of simple exercises for Maven learners 
