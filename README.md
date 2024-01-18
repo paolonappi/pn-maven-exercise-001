@@ -7,4 +7,4 @@ Exercise goals
 
 1. Understand and describe POM.xml strucutre
 2. Edit POM adding dependecies and plugins 
-3. Use properly maven commands like mvn clean, install
+3. Use properly Maven commands like "mvn clean, install..."
