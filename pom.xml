@@ -7,9 +7,7 @@
 	<groupId>com.pn.exercises</groupId>
 
 	<!--
-	
 	The the artifact ID in Maven is a unique identifier for a project or module within a group, and it plays a crucial role in dependency management and project identification.
-	
 	-->
 
 	<artifactId>pn-hello-maven</artifactId>
@@ -32,8 +30,7 @@ The combination of these three coordinates (group ID, artifact ID, and version) 
 		
 		<maven.compiler.source>1.8</maven.compiler.source>
 		
-		<maven.compiler.target>1.8</maven.compiler.target>
-		
+		<maven.compiler.target>1.8</maven.compiler.target>	
 		-->
 		
 	</properties>
