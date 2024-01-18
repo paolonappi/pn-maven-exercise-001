@@ -3,7 +3,7 @@ Precondition
 
 1. Maven is installed on your machine, you should able to invoke mvn -version using your shell
 
-Exercies Steps
+Exercise Steps
 
 1. Navigate using a shell to the folder, open with a text notepad the file pom.xml, read comments 
 
@@ -27,3 +27,11 @@ Exercies Steps
 5. Update "group id, artifact id as you like"
 
 6. Invoke mvn commands "mvn clean install", see Maven logs
+
+7. Create the following structure "src/main/java", "src/main/resources"
+
+8. Create a Java "Printing Hello World" class with a main inside src/main/java folder
+
+9. Add some dependency to POM file and use it in the Hello World class
+
+10. Create a Runnable Java JAR using the appropriate Maven JAR plugin 
