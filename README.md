@@ -51,13 +51,11 @@ Exercise Steps
 
 7. Create the following structure "src/main/java", "src/main/resources"
 
-8. Create a "main" Java class able to "Print Hello World" inside src/main/java folder, creating in this way a console application
+8. Create a "main" Java class able to "Print Hello World" inside src/main/java folder, creating in this way a console application, launch it using your favorite ide (e.g. Eclipse, Visual Studio Code..)
 
-9. Add some dependencies to the POM file and use it in the Hello World class
+9. Add some as dependency "Google gson" library to the POM file, create a some Java POJO, and convert into JSON string using Google gosn, print it in the Hello World class
 
 10. Create a "Runnable Java JAR" using the appropriate "Maven JAR plugin" and Maven commands
     
-11. Launch the application, verify avaibility of depedencies at runtime
-    
-12. Use Maven profiles to customize builds for different environments activating different properties
+11. Launch the application, verify avaibility of the depedencies at runtime, the JAR should include the dependecy or you have to pass it using the Java classpath
 
