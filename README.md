@@ -13,7 +13,7 @@ Precondition
 
 2. You have read the https://maven.apache.org/what-is-maven.html
 
-3. You have read https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html
+3. You have read the https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html
 
 Exercise Steps
 
