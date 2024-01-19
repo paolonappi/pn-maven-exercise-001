@@ -30,14 +30,20 @@ Exercise Steps
 "mvn compile", compiles the source code of the project.
 
 "mvn test", runs the unit tests for the project.
-"mvn package", packages the compiled code and resources into an artifact (e.g., JAR, WAR).
-"mvn install", builds the project, runs tests, packages the artifact, and installs it into the local Maven repository.
-"mvn deploy", deploys the built artifact to a remote Maven repository, such as Nexus or Artifactory.
-"mvn site", generates project documentation and reports, such as code coverage reports and JavaDoc.
-"mvn dependency:tree", displays the dependency tree of the project, showing all the project's dependencies.
-"mvn clean install", cleans the project, builds it, runs tests, packages the artifact, and installs it.
-"mvn clean package", cleans the project, builds it, and packages the artifact.
 
+"mvn package", packages the compiled code and resources into an artifact (e.g., JAR, WAR).
+
+"mvn install", builds the project, runs tests, packages the artifact, and installs it into the local Maven repository.
+
+"mvn deploy", deploys the built artifact to a remote Maven repository, such as Nexus or Artifactory.
+
+"mvn site", generates project documentation and reports, such as code coverage reports and JavaDoc.
+
+"mvn dependency:tree", displays the dependency tree of the project, showing all the project's dependencies.
+
+"mvn clean install", cleans the project, builds it, runs tests, packages the artifact, and installs it.
+
+"mvn clean package", cleans the project, builds it, and packages the artifact.
 
 5. Update "group id, artifact id, name" using you project informations 
 
