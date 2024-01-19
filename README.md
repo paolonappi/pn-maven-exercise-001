@@ -1,6 +1,5 @@
 # pn-maven-exercise-it-academy
-Simple exercise for Maven learners of the IT Learning & Training Academy
-
+Simple exercise for new Maven learners of the IT Learning & Training Academy
 
 Exercise goals 
 
@@ -20,7 +19,7 @@ Exercise Steps
 
 1. Download the code, navigate using a shell to the folder, open with a text notepad the file pom.xml, read comments 
 
-2. Uncomment and update the "properties section" if you need please update you pom file using favorite java version, maven compiler source, maven compiler target
+2. Uncomment and update the "properties section", if you need please update you pom file using favorite java version, maven compiler source, maven compiler target
 
 3. Invoke mvn commands "mvn clean install" using a shell, see Maven logs
  
@@ -37,7 +36,7 @@ Exercise Steps
 "mvn clean install", cleans the project, builds it, runs tests, packages the artifact, and installs it.
 "mvn clean package", cleans the project, builds it, and packages the artifact.
 
-5. Update "group id, artifact id.." as you like"
+5. Update "group id, artifact id, name" using you project informations 
 
 6. Invoke mvn commands "mvn clean install", see Maven logs
 
@@ -49,5 +48,5 @@ Exercise Steps
 
 10. Create a Runnable Java JAR using the appropriate Maven JAR plugin
 
-11. Use Maven profiles to customize builds for different environments
+11. Use Maven profiles to customize builds for different environments activating different properties
 
