@@ -53,11 +53,11 @@ Exercise Steps
 
 8. Create a "main" Java class able to "Print Hello World" inside src/main/java folder, creating in this way a console application
 
-9. Add some dependencies with different scopes to the POM file and use it in the Hello World class
+9. Add some dependencies to the POM file and use it in the Hello World class
 
 10. Create a "Runnable Java JAR" using the appropriate "Maven JAR plugin" and Maven commands
     
 11. Launch the application, verify avaibility of depedencies at runtime
-
-13. Use Maven profiles to customize builds for different environments activating different properties
+    
+12. Use Maven profiles to customize builds for different environments activating different properties
 
