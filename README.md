@@ -12,6 +12,10 @@ Precondition
 
 1. Maven is installed on your machine, you should able to invoke mvn -version using your shell
 
+2. You have read the https://maven.apache.org/what-is-maven.html
+
+3. You have read https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html
+
 Exercise Steps
 
 1. Download the code, navigate using a shell to the folder, open with a text notepad the file pom.xml, read comments 
@@ -33,16 +37,17 @@ Exercise Steps
 "mvn clean install", cleans the project, builds it, runs tests, packages the artifact, and installs it.
 "mvn clean package", cleans the project, builds it, and packages the artifact.
 
-5. Update "group id, artifact id as you like"
+5. Update "group id, artifact id.." as you like"
 
 6. Invoke mvn commands "mvn clean install", see Maven logs
 
 7. Create the following structure "src/main/java", "src/main/resources"
 
-8. Create a Java "Printing Hello World" class with a main inside src/main/java folder
+8. Create a "main" Java class able to "Print Hello World" inside src/main/java folder
 
 9. Add some dependency to the POM file and use it in the Hello World class
 
 10. Create a Runnable Java JAR using the appropriate Maven JAR plugin
 
-11. Use Maven profiles to customize builds for different environments 
+11. Use Maven profiles to customize builds for different environments
+
