@@ -9,7 +9,7 @@ Exercise goals
 
 Precondition
 
-1. Maven is installed on your machine, you should able to invoke mvn -version using your shell
+1. Maven is installed on your machine, you should able to invoke "mvn -version" command using your shell
 
 2. You have read the https://maven.apache.org/what-is-maven.html
 
