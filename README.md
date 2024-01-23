@@ -59,3 +59,5 @@ Exercise Steps
     
 11. Launch the application, verify avaibility of the depedencies at runtime, the JAR should include the dependecy or you have to pass it using the Java classpath
 
+12. Turn the project in an archetype, creating another project using the archetype 
+
